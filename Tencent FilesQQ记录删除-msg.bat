@@ -1,0 +1,1 @@
+del Msg2.0.db /s
